@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @WilsonHenderson
+ Olá! Eu sou Wilson Henderson 👋
 
-<!---
-WilsonHenderson/WilsonHenderson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨 💻 Programador com foco em Java.
+
+Possuo certificações em:
+* Lógica de Programação (Udemy)
+* Lógica de Programação em Java (Udemy)
+
+Estou sempre buscando aprender e aplicar novas tecnologias. Conecte-se comigo!
